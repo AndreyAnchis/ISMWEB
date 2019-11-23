@@ -83,4 +83,6 @@ img {
 }
 .cont-3{
     background: palevioletred;
+    vertical-align: top;
+    text-align: left;
 }
